@@ -1,0 +1,13 @@
+.crop {
+    width: 100%;
+    height: 650px;
+    overflow: hidden;
+}
+
+.header-bg {
+    background-image: url(assets/jumbotron.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
